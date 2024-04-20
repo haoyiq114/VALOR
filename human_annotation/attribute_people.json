@@ -1,0 +1,898 @@
+{
+    "pexels-aidan-roof-11757336": {
+        "1": {
+            "person": "woman",
+            "object": "(black, jacket), (pink, pants), (brown, shoes), (green, hat)",
+            "action": "standing, hugging"
+        },
+        "2": {
+            "person": "man", 
+            "object": "(red, scarf), (red, jacket), (white, pants), (brown, handbag), (black, shoes)",
+            "action": "standing"
+        }
+    },
+    "pexels-tima-miroshnichenko-7202784": {
+        "1": {
+            "person": "woman",
+            "object": "(black, suit), (white, shirt), (white, shoes)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(pink, suit), (white, shirt), (white, shoes)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(orange, suit), (white, shirt), (white, shoes)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(gray, suit), (white, shirt), (white, shoes)",
+            "action": "standing"
+        }
+    },
+    "pexels-nino-souza-1701001": {
+        "1": {
+            "person": "woman",
+            "object": "(blue, shirt), (white, skirt), (white, shoes)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(blue, shirt), (white, skirt)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(gray, shirt), (white, skirt), (black, shoes)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "man",
+            "object": "(blue, shirt), (blue, jeans), (black, shoes)",
+            "action": "walking"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(red, shirt), (blue, jeans), (white, shoes)",
+            "action": "walking"
+        },
+        "6": {
+            "person": "woman",
+            "object": "(blue, shirt), (black, pants), (black, shoes)",
+            "action": "walking"
+        }
+    },
+    "pexels-photo-12790666": {
+        "1": {
+            "person": "man",
+            "object": "(gray, shirt), (blue, pants), (white, shoes)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "man",
+            "object": "(white, shirt), (white, pants), (brown, shoes)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "man",
+            "object": "(striped, shirt), (black, pants), (white, socks), (white, shoes)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "man",
+            "object": "(black, shirt), (black, pants), (checkered, shoes)",
+            "action": "standing"
+        },
+        "5": {
+            "person": "man",
+            "object": "(gray, shirt), (checkered, pants), (black, shoes)",
+            "action": "standing"
+        }
+    },
+    "pexels-tima-miroshnichenko-5560301": {
+        "1": {
+            "person": "man",
+            "object": "(yellow, shirt), (green, pants), (black, shoes)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "woman", 
+            "object": "(yellow, shirt), (red, dress), (red, sunglasses), (white, socks)", 
+            "action": "walking"
+        },
+        "3": {
+            "person": "man", 
+            "object": "(orange, shirt), (blue, jeans), (red, shoes)", 
+            "action": "walking"
+        },
+        "4": {
+            "person": "woman", 
+            "object": "(yellow, shirt), (black, pants), (white, shoes)", 
+            "action": "walking"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(orange, shirt), (colorful, pants), (white, shoes)",
+            "action": "walking"
+        }
+    },
+    "pexels-edmond-dantès-8554064": {
+        "1": {
+            "person": "woman",
+            "object": "(pink, dress), (beige, blazer), (white, heels)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(red, headscarf), (green, dress), (coral, pants), (black, shoes)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "man",
+            "object": "(pink, sweater), (white, shirt), (gray, pants), (white, sneakers)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "man",
+            "object": "(blue, shirt), (beige, pants), (black, shoes)",
+            "action": "walking"
+        }
+    },
+    "pexels-quang-nguyen-vinh-14771863": {
+        "1": {
+            "person": "woman",
+            "object": "(red, dress)", 
+            "action": "walking"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(green, dress)", 
+            "action": "walking"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(pink, dress)", 
+            "action": "walking"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(pink, dress)", 
+            "action": "walking"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(red, dress)", 
+            "action": "walking"
+        }
+    },
+    "pexels-kindel-media-7148443": {
+        "1": {
+            "person": "man",
+            "object": "(white, shirt), (blue, jeans), (white, shoes)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "man",
+            "object": "(green, shirt), (gray, shirt), (blue, jeans), (white, shoes)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(red, shirt), (blue, shorts), (white, shoes)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "man",
+            "object": "(white, shirt), (black, pants), (black, shoes), (beige, beanie)",
+            "action": "walking"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(red, shirt), (blue, shorts)",
+            "action": "walking"
+        },
+        "6": {
+            "person": "woman",
+            "object": "(black, shirt), (blue, jeans)",
+            "action": "walking"
+        }
+    },
+    "pexels-august-de-richelieu-4427816": {
+        "1": {
+            "person": "man",
+            "object": "(brown, coat), (gray, pants), (black, scraf), (white, shirt), (red, tie), (brown, handbag)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "man",
+            "object": "(gray, coat), (black, pants), (gray, vest), (pink, shirt), (brown, shoes), (black, tie)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(gray, coat), (black, blazer), (blue, shirt), (black, skirt), (black, shoes)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(white, coat), (beige, shirt), (gray, pants), (black, shoes)",
+            "action": "walking"
+        },
+        "5": {
+            "person": "man",
+            "object": "(black, coat), (black, pants), (black, handbag), (black, shoes), (black, tie), (white, shirt)",
+            "action": "walking"
+        },
+        "6": {
+            "person": "woman",
+            "object": "(white, coat), (black, pants), (black, shoes), (white, shirt)",
+            "action": "walking"
+        }
+    },
+    "pexels-ivan-samkov-9630171": {
+        "1": {
+            "person": "person",
+            "object": "(yellow, jacket), (blue, jeans), (pink, backpack), (brown, boots)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(blue, shirt), (black, pants), (black, backpack), (gray, shoes)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "man",
+            "object": "(checkered, shirt), (gray, pants), (black, backpack), (white, shoes)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "man",
+            "object": "(blue, shirt), (khaki, shorts), (blue, backpack), (brown, shoes)",
+            "action": "walking"
+        },
+        "5": {
+            "person": "man",
+            "object": "(red, jacket), (blue, jeans), (gray, backpack), (brown, shoes), (white, shirt), (black, cap)",
+            "action": "walking"
+        },
+        "6": {
+            "perosn": "woman",
+            "object": "(black, shirt), (blue, jeans), (brown, backpack), (black, shoes)",
+            "action": "walking"
+        }
+    },
+    "pexels-maël-balland-3195777": {
+        "1": {
+            "person": "man",
+            "object": "(blue, jacket), (khaki, pants), (brown, hat), (black, shoes)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "man",
+            "object": "(black, jacket), (khaki, pants), (brown, hat), (red, scarf), (black, shoes)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "man",
+            "object": "(green, jacket), (khaki, pants), (brown, shoes)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "man",
+            "object": "(khaki, shirt), (khaki, pants), (brown, hat), (red, scarf), (black, shoes), (brown, belt)",
+            "action": "standing"
+        }
+    },
+    "pexels-rachel-claire-7276613": {
+        "1": {
+            "person": "person",
+            "object": "(green, jacket), (red, pants), (black, backpack), (black, shoes)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(black, jacket), (black, pants), (black, shoes)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(red, jacket), (black, pants), (brwon, shoes)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(blue, jacket), (green, pants), (gray, backpack), (white, shoes)",
+            "action": "walking"
+        },
+        "5": {
+            "person": "person",
+            "object": "(blue, jacket), (black, pants), (purple, hat), (black, shoes)",
+            "action": "walking"
+        },
+        "6": {
+            "person": "man",
+            "object": "(black, jacket), (blue, jeans), (black, backpack), (black, shoes)",
+            "action": "walking"
+        }
+    },
+    "pexels-rachel-claire-7276640": {
+        "1": {
+            "person": "person",
+            "object": "(green, jacket), (blue, jeans), (black, shoes)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "person",
+            "object": "(blue, jacket), (black, leggings), (white, shoes)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "person",
+            "object": "(black, jacket), (blue, jeans), (black, shoes)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "person",
+            "object": "(black, jacket), (black, leggings), (black, shoes)",
+            "action": "walking"
+        }
+    },
+    "pexels-mikhail-nilov-9268684": {
+        "1": {
+            "person": "man",
+            "object": "(white, uniform), (black, hat)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "man",
+            "object": "(white, uniform), (blue, hat)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "man",
+            "object": "(white, uniform), (blue, hat)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "man",
+            "object": "(white, uniform), (blue, hat)",
+            "action": "walking"
+        },
+        "5": {
+            "person": "man",
+            "object": "(white, uniform), (blue, hat)",
+            "action": "walking"
+        }
+    },
+    "pexels-cottonbro-studio-6054134": {
+        "1": {
+            "person": "woman",
+            "object": "(white, blouse)",
+            "action": "sitting"
+        },
+        "2": {
+            "person": "man",
+            "object": "(gray, jacket), (white, shirt)",
+            "action": "leaning"
+        },
+        "3": {
+            "person": "man",
+            "object": "(black, jacket), (white, shirt)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "man",
+            "object": "(gray, shirt)",
+            "action": "sitting"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(white, blouse), (black, skirt)",
+            "action": "standing"
+        }
+    },
+    "pexels-brett-sayles-4114952": {
+        "1": {
+            "person": "man",
+            "object": "(white, hoodie), (blue, jeans), (red, belt), (white, shoes)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "man",
+            "object": "(black, hoodie), (black, pants), (gray, shoes)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "man",
+            "object": "(gray, hoodie), (green, pants), (black, shoes)",
+            "action": "walking"
+        },
+        "4": {
+            "person": "man",
+            "object": "(black, hoodie), (black, pants), (yellow, shoes)",
+            "action": "standing"
+        }
+    },
+    "pexels-rfstudio-3810792": {
+        "1": {
+            "person": "woman",
+            "object": "(white, shirt)",
+            "action": "sitting"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(green,shirt)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(blue, tank)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(white, dress)",
+            "action": "standing"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(white, shirt)",
+            "action": "sitting"
+        }
+
+    },
+    "pexels-kampus-production-8914048": {
+        "1": {
+            "person": "woman",
+            "object": "(white, blouse), (blue, jeans), (white, shoes), (red, scarf)",
+            "action": "walking"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(beige, jacket), (white, shirt), (black, shoes)",
+            "action": "walking"
+        },
+        "3": {
+            "person": "man",
+            "object": "(blue, jacket), (white, shirt), (blue, jeans), (black, shoes)",
+            "action": "swing"
+        },
+        "4": {
+            "person": "man",
+            "object": "(blue, jacket), (white, shirt), (green, pants), (beige, shoes)",
+            "action": "walking"
+        }
+    },
+    "pexels-kampus-production-8777877": {
+        "1": {
+            "person": "person",
+            "object": "(green, shirt), (orange, shirt)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "man",
+            "object": "(black, shirt), (black, cap)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "person",
+            "object": "(red, shirt)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "man",
+            "object": "(purple, shirt)",
+            "action": "standing"
+        }
+    },
+    "pexels-rdne-stock-project-7551442": {
+        "1": {
+            "person": "man",
+            "object": "(red, shirt), (blue, jeans)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(blue, shirt), (blue, jeans)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(red, shirt), (blue, jeans)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "man",
+            "object": "(blue, shirt), (black, pants)",
+            "action": "standing"
+        }
+    },
+    "pexels-rfstudio-3811977": {
+        "1": {
+            "person": "woman",
+            "object": "(cream, dress)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(brown, suit), (white, shoes)",
+            "action": "squatting"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(beige, suit)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(white, blouse), (taupe, pants)",
+            "action": "sitting"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(taupe, dress)",
+            "action": "standing"
+        }
+    },
+    "pexels-ivan-samkov-5676744": {
+        "1": {
+            "person": "man",
+            "object": "(blue, shirt)",
+            "action": "sitting"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(green, jacket), (white, shirt), (blue, jeans), (brown, bag)",
+            "action": "sitting"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(pink, blouse), (blue, jeans), (pink, headband)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(pink, sweater)",
+            "action": "sitting"
+        },
+        "5": {
+            "person": "man",
+            "object": "(gray, sweatshirt), (white, shirt), (blue, jeans), (gray, backpack)",
+            "action": "standing"
+        }
+    },
+    "pexels-august-de-richelieu-4262414": {
+        "1": {
+            "person": "man",
+            "object": "(gray, jacket), (green, shirt)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "man",
+            "object": "(green, shirt)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(orange, dress), (colorful, hairband)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(yellow, shirt), (coral, hairband)",
+            "action": "standing"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(colorful, dress)",
+            "action": "standing"
+        },
+        "6": {
+            "person": "man",
+            "object": "(orange, shirt), (white, shirt)",
+            "action": "standing"
+        },
+        "7": {
+            "person": "man",
+            "object": "(white, jacket)",
+            "action": "standing"
+        }
+    },
+    "pexels-fauxels-3184396": {
+        "1": {
+            "person": "person",
+            "object": "(brown, shirt), (khaki, pants)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "person",
+            "object": "(blue, shirt), (khaki, pants), (brown, shoes)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "person",
+            "object": "(purple, shirt), (purple, pants), (black, shoes)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "person",
+            "object": "(white, shirt), (black, dress), (white, shoes)",
+            "action": "standing"
+        },
+        "5": {
+            "person": "person",
+            "object": "(white, shirt), (green, pants), (black, boots)",
+            "action": "standing"
+        },
+        "6": {
+            "person": "person",
+            "object": "(yellow, jacket), (brown, pants), (white, shirt), (brown, shoes)",
+            "action": "standing"
+        },
+        "7": {
+            "person": "person",
+            "object": "(white, shirt), (gray, pants), (green, shoes)",
+            "action": "standing"
+        },
+        "8": {
+            "person": "person",
+            "object": "(green, shirt), (white, pants), (gray, shoes)",
+            "action": "standing"
+        }
+    },
+    "pexels-sharefaith-1231230": {
+        "1": {
+            "person": "man",
+            "object": "(black, shirt), (khaki, shorts)",
+            "action": "sitting"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(red, shirt), (blue, shorts), (black, shoes)",
+            "action": "sitting"
+        },
+        "3": {
+            "person": "man",
+            "object": "(black, shirt), (blue, jeans), (black, shoes)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(white, shirt), (blue, shorts)",
+            "action": "sitting"
+        }
+    },
+    "pexels-kampus-production-8190801": {
+        "1": {
+            "person": "woman",
+            "object": "(orange, jacket), (black, shirt)",
+            "action": "sitting"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(purple, jacket), (black, shirt)",
+            "action": "sitting"
+        },
+        "3": {
+            "person": "man",
+            "object": "(red, jacket), (white, shirt)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "man",
+            "object": "(black, shirt)",
+            "action": "sitting"
+        }
+    },
+    "pexels-lara-jameson-8899326": {
+        "1": {
+            "person": "man",
+            "object": "(blue, shirt), (gray, shorts)",
+            "action": "shouting, standing"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(pink, shirt)",
+            "action": "shouting, standing"
+        },
+        "3": {
+            "person": "man",
+            "object": "(blue, shirt), (green, pants)",
+            "action": "shouting, standing"
+        }
+    },
+    "pexels-ketut-subiyanto-4623204": {
+        "1": {
+            "person": "man",
+            "object": "(white, shirt), (blue, jeans), (yellow, hat), (black, belt)",
+            "action": "standing, talking"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(red, sweater), (striped, skirt)",
+            "action": "standing, talking"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(beige, blouse), (white, pants)",
+            "action": "sitting, talking"
+        }
+    },
+    "pexels-kampus-production-7576039": {
+        "1": {
+            "person": "man",
+            "object": "(striped, shirt), (beige, pants)",
+            "action": "sitting"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(black, dress)",
+            "action": "sitting"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(red, shirt), (black, pants)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "man",
+            "object": "(red, shirt), (gray, pants)",
+            "action": "sitting"
+        }
+    },
+    "pexels-roberto-nickson-2647973": {
+        "1": {
+            "person": "woman",
+            "object": "(lime, swimsuit)",
+            "action": "sitting"
+        },
+        "2": {
+            "person": "woman",
+            "object": "(orange, swimsuit)",
+            "action": "sitting"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(purple, swimsuit)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(pink, swimsuit)",
+            "action": "sitting"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(green, swimsuit)",
+            "action": "sitting"
+        },
+        "6": {
+            "person": "woman",
+            "object": "(blue, swimsuit)",
+            "action": "sitting"
+        }
+    },
+    "pexels-rdne-stock-project-8363052": {
+        "1": {
+            "person": "child",
+            "object": "(white, shirt)",
+            "action": "sitting"
+        },
+        "2": {
+            "person": "child",
+            "object": "(blue, shirt)",
+            "action": "sitting"
+        },
+        "3": {
+            "person": "child",
+            "object": "(red, shirt)",
+            "action": "sitting"
+        },
+        "4": {
+            "person": "child",
+            "object": "(white, shirt), (black, pants)",
+            "action": "standing"
+        },
+        "5": {
+            "person": "woman",
+            "object": "(yellow, shirt)",
+            "action": "standing"
+        }
+    },
+    "pexels-kampus-production-8941609": {
+        "1": {
+            "person": "child",
+            "object": "(green, shirt), (blue, shorts)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "man",
+            "object": "(blue, shirt), (gray, pants)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "child",
+            "object": "(green, shirt), (blue, shorts)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "child",
+            "object": "(blue, shirt), (blue, shorts)",
+            "action": "standing"
+        }
+    },
+    "pexels-mikhail-nilov-8307717": {
+        "1": {
+            "person": "man",
+            "object": "(white, shirt), (gray, shirt), (blue, jeans)",
+            "action": "siting, reading"
+        },
+        "2": {
+            "person": "child",
+            "object": "(red, scarf)",
+            "action": "siting, reading"
+        },
+        "3": {
+            "person": "child",
+            "object": "(checkered, shirt), (white, shirt), (gray, jeans)",
+            "action": "siting, reading"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(white, shirt), (white, shirt), (blue, jeans)",
+            "action": "siting, reading"
+        }
+    },
+    "pexels-yan-krukau-8866809": {
+        "1": {
+            "person": "woman",
+            "object": "(black, jacket), (white, shirt), (black, pants)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "man",
+            "object": "(blue, sweater), (white, shirt), (black, pants)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "woman",
+            "object": "(black, jacket), (black, shirt), (black, pants), (white, shoes)",
+            "action": "standing"
+        },
+        "4": {
+            "person": "woman",
+            "object": "(black, jacket), (gray, pants), (white, shoes)",
+            "action": "standing"
+        },
+        "5": {
+            "person": "man",
+            "object": "(white, shirt), (checkered, pants), (brown, shoes)",
+            "action": "standing"
+        }
+    },
+    "pexels-yan-krukau-5792899": {
+        "1": {
+            "person": "woman",
+            "object": "(red, jacket), (blue, jeans), (brown, shoes)",
+            "action": "standing"
+        },
+        "2": {
+            "person": "child",
+            "object": "(red, jacket), (gray, hat), (black, pants), (pink, shoes)",
+            "action": "standing"
+        },
+        "3": {
+            "person": "child",
+            "object": "(red, jacket), (yellow, hat), (black, pants), (red, shoes)",
+            "action": "riding"
+        },
+        "4": {
+            "person": "man",
+            "object": "(black, jacket), (gray, jeans), (black, boots)",
+            "action": "standing"
+        }
+    }
+}

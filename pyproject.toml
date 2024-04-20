@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "valor"
+version = "1.0.0"
+description = "VALOR: Evaluation and Benchmark for Vision-Language Model Hallucinations"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+]
+dependencies = [
+    "torch==2.1.2", "torchvision==0.16.2",
+    "transformers==4.37.2", "tokenizers==0.15.1", "openai==0.28",
+    "pydantic", "markdown2[all]", "numpy", "scikit-learn==1.2.2",
+    "requests", "tqdm",
+]
+
+[project.urls]
+"Homepage" = "https://gordonhu608.github.io/VALOR-Eval/"
+
+[tool.setuptools.packages.find]
+exclude = ["assets*",  "playground*", "scripts*"]
+
+[tool.wheel]
+exclude = ["assets*",  "playground*", "scripts*"]

@@ -1,0 +1,1 @@
+ Describe the relationship between all the objects in the image in detail, using left, right, top, and bottom etc, from the view of the observer.

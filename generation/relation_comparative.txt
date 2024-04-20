@@ -1,0 +1,1 @@
+Rank the size of all the objects in the image in detail, from large to small.

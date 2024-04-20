@@ -1,4 +1,4 @@
-## VALOR: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models
+## VALOR-Eval: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models
 
 <div align="center">
 <b><a href = "https://haoyiq114.github.io">Haoyi Qiu</a>*, <a href = "https://gordonhu608.github.io">Wenbo Hu</a>*, <a href = "https://zdou0830.github.io">Zi-Yi Dou</a>, <a href = "https://vnpeng.net">Nanyun Peng</a></b>
@@ -82,4 +82,4 @@ If you found this work useful, consider giving this repository a star and citing
   journal={},
   year={2024}
 }
-```# VALOR
+```

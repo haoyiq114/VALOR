@@ -11,7 +11,7 @@
 in alphabetical order by first name.
 </div>
 <div align="center">
-    <a href=""><img src="https://img.shields.io/badge/Paper-Arxiv-orange" ></a>
+    <a href="https://arxiv.org/pdf/2404.13874.pdf"><img src="https://img.shields.io/badge/Paper-Arxiv-orange" ></a>
     <a href="https://gordonhu608.github.io/VALOR-Eval/"><img src="https://img.shields.io/badge/Project-Page-yellow" ></a>
     <a href="https://github.com/haoyiq114/VALOR/blob/main/LICENSE"><img src="https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg"></a>
     <a href= "https://github.com/haoyiq114/VALOR/blob/main/DATA_LICENSE"><img src="https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg"></a>
@@ -76,10 +76,11 @@ bash scripts/evaluate_object_existence.sh
 ## Citation
 If you found this work useful, consider giving this repository a star and citing our paper as followed:
 ```
-@article{qiu2024eval,
-  title={Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models},
-  author={Qiu, Haoyi and Hu, Wenbo and Dou, Zi-Yi and Peng, Nanyun},
-  journal={},
-  year={2024}
+@misc{qiu2024valoreval,
+      title={VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models}, 
+      author={Haoyi Qiu and Wenbo Hu and Zi-Yi Dou and Nanyun Peng},
+      year={2024},
+      eprint={2404.13874},
+      archivePrefix={arXiv}
 }
 ```
